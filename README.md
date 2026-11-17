@@ -1,2 +1,2 @@
 # text-to-sql
-Consulta um banco de dados relacional utilizando linguagem natural.
+Consulta a bancos de dados relacionais e orientado a grafos utilizando linguagem natural.
