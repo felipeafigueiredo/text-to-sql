@@ -1,0 +1,22 @@
+# Dados do Yelp: os termos de uso proíbem redistribuir (ver PLANO.md, T25)
+Yelp-JSON/
+dados/recorte/
+*.zip
+
+# Spike: experimento descartável, não faz parte da entrega
+notebooks/00_spike.ipynb
+
+# Material de apoio que fica só na máquina: aulas do professor, especificação, esboço e plano
+lesson10.ipynb
+lesson11.ipynb
+lesson12.ipynb
+trabalho2_topicos.pdf
+Projeto - Text to SQL_Cypher.pdf
+PLANO.md
+
+# Ambiente
+servidor_libs/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+ollama.log
